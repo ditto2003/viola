@@ -1,3 +1,9 @@
+#site setting
+description: A website about ditto
+baseurl: "/viola/" # the subpath of my site
+url: "http://ditto2003.github.io"
+
+
 collections:
   authors:
     output: true
